@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAADw/w/A/A8AAPD/z7y7+wAA/8y7G8uxDwDPPLO7u7/7AM/Au7u7v/sAAMC8u7u/+wAAPLMby7H7AADMu7u7u/sAAMDMvLu7+wAA8P+7vLv8AADwu8u8yw8AAL/LzPz/AAAAvLzLzAwAAPC7zLsMDAAA8MvMzAAAAADwDAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ForestBat1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAzAwAAAAAAMC7ywAAAAAAvL27DAAAAMAb0bsMAAAAuxMRs8sAAAA7EzHTy7sAsDMzM9HN2wCwMzMzEc3dALAzMzMTyxEAsBMxMzPLEQAAGxETscu7AAC7ERPRywAAAMA7E90MAAAAAMy73QwAAAAAwLvLAAAAAAAAzAwAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ForestMushroom"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
